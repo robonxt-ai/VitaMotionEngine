@@ -1,3 +1,9 @@
+# VitaMotionEngine
+
+Robot dog or something.
+
+# NOTES
+
 MUST CONNECT SERVOS TO SERIAL2
 
 Buslinker library notes:
